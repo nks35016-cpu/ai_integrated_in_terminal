@@ -2,7 +2,7 @@
 AI-powered terminal assistant built using API integration. This tool allows users to interact with an AI model directly from the command line to generate responses, automate tasks, and streamline developer workflows.
 # AI Terminal Assistant (API Integration)
 
-This project is an AI-powered command-line tool which have in built chat history features that allows users to interact with an AI model directly from the terminal using an API. It helps automate tasks, generate responses, and improve developer productivity without leaving the command line.
+This project is an AI-powered command-line tool which has in built chat history features that allows users to interact with an AI model directly from the terminal using an API. It helps automate tasks, generate responses, and improve developer productivity without leaving the command line.
 
 ## Features
 
